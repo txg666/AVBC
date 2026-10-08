@@ -1,4 +1,4 @@
-# PAVD: Parameter-Aware Vulnerability Detection (AVBCM)
+# Adaptive Boundary Calibration Mechanism (AVBCM)
 
 GNN-based source-code vulnerability detection under class imbalance, with the
 **Adaptive Boundary Calibration Mechanism (AVBCM)**: a training-time module that
